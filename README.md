@@ -1,7 +1,11 @@
-<h1 align="center"> Yo!! Kise Desu</h1>
+<h1 align="center">👋 Hi, I'm Jefree Jay Garcia</h1>
 
 <p align="center">
-BSIT Student • Web Development • Network Security • Philippines
+BSIT Student • Web Developer • Game Developer (Godot) • Automation Builder (n8n)
+</p>
+
+<p align="center">
+Docker • Kubernetes • Network Security • Philippines
 </p>
 
 <p align="center">
@@ -13,7 +17,15 @@ BSIT Student • Web Development • Network Security • Philippines
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,linux,git,firebase,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,linux,git,firebase,mysql,docker,kubernetes,vscode" />
+</p>
+
+---
+
+<h3 align="center">Tools & Platforms</h3>
+
+<p align="center">
+Godot Engine • n8n Automation • Docker Containers • Kubernetes Clusters
 </p>
 
 ---
@@ -41,7 +53,7 @@ BSIT Student • Web Development • Network Security • Philippines
 <h3 align="center">Current Focus</h3>
 
 <p align="center">
-Web Applications • Cybersecurity • Linux • Automation
+Game Development with Godot • Workflow Automation with n8n • Container Systems with Docker and Kubernetes
 </p>
 
 ---
