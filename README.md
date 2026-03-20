@@ -17,7 +17,7 @@ Docker • Kubernetes • Network Security • Philippines
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,linux,git,firebase,mysql,docker,kubernetes,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,lua,cpp,linux,git,firebase,mysql,docker,kubernetes,vscode" />
 </p>
 
 ---
