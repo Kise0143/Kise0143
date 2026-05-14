@@ -33,11 +33,11 @@ Godot Engine • n8n Automation • Docker Containers • Kubernetes Clusters
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kise0143&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kise0143&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kise0143&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kise0143&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
