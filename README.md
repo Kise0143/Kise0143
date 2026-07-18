@@ -5,7 +5,7 @@ BSIT Student • Web Developer • Game Developer (Godot) • Automation Builder
 </p>
 
 <p align="center">
-Docker • Kubernetes • Network Security • Philippines
+Pipeline • Cybersecurity • Network Security • Philippines
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Docker • Kubernetes • Network Security • Philippines
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,lua,cpp,linux,git,firebase,mysql,docker,kubernetes,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,lua,cpp,linux,git,firebase,mysql,vscode" />
 </p>
 
 <hr style="border: none; border-top: 1px solid #21262d; margin: 2rem 0;" />
@@ -25,7 +25,7 @@ Docker • Kubernetes • Network Security • Philippines
 <h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-Godot Engine • n8n Automation • Docker Containers • Kubernetes Clusters
+Godot Engine • n8n Automation • CI/CD Pipeline • Cybersecurity
 </p>
 
 <hr style="border: none; border-top: 1px solid #21262d; margin: 2rem 0;" />
